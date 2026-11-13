@@ -1,15 +1,20 @@
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" height="75%" width="100%"alt="osTicket logo"/>
 </p>
 
-<h1>How Tickets Get Opened and Closed</h1>
+<h1>osTicket: Ticket Lifecycle from Intake to Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 <!-- <h2>Video Demonstration</h2>
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com) -->
+
+<h2>Skills Demonstrated</h2>
+
+- Ticket intake, prioritization by SLA and assignment
+- Escalating a ticket to the right team with clear notes
+- Working an issue through to resolution and closing it out
 
 <h2>Environments and Technologies Used</h2>
 
@@ -19,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -85,7 +90,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:
 </p>
 <p>
   <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
@@ -96,8 +101,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   This was a very simplistic scenario of the creation of a ticket by a user, how the ticket is assigned and displays the communication of a ticket between agents; subsequently resulting in a resolution.
 </p>
 <p>
-  There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
+  There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
 </p>
 <p>
-  I hope this tutorial helps you understand and have a better general overview of a life-cycle of a ticket. Help desk agents can expect to regularly deal with anywere between 10 to 100 tickets during their day depeneding on the company size.
+  I hope this tutorial helps you understand and have a better general overview of a life-cycle of a ticket. Help desk agents can expect to regularly deal with anywhere between 10 to 100 tickets during their day depending on the company size.
 </p>
